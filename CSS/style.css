@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+}
+
+main{
+    font-family: arial;
+}
+
+
+.ali{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../images/angel-jimenez.jpg);
+    background-size: cover;
+}
+
+h1{
+    margin: 0;
+    text-align: center;
+    padding: 40vh 0 0 10vw;
+    color: white;
+    font-size: 22vh;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+.balo{
+    display: flex;
+    margin: 200px 100px ;
+    justify-content: center;
+    align-items: center;
+}
+
+.coco{
+    width: 700px;
+    margin-right: 100px;
+}
+
+.dip{
+    background: linear-gradient(to right, #f75860, #d400ff 30%);
+    background-clip: text;
+    color: transparent;
+}
+
+h3{
+    text-transform: uppercase;
+    font-size: 50px;
+}
+
+p{
+    line-height: 2;
+    font-family:sans-serif;
+    font-size: 18px;
+
+}
+
+button{
+    width: 200px;
+    border: none;
+    border-radius: 30px;
+    padding: 20px;
+    text-transform: uppercase;
+    font-size: 15px;
+    background-color: #f75860;
+    color: white ;
+}
+
+.ferb{
+    color: white;
+    width: 600px;
+    margin-right: 250px;
+}
+
+footer{
+    background: linear-gradient(to left, #df2626, #c7374f);
+    padding: 50px 200px;
+    font-size: 18px;
+}
+
+.git{
+    display: flex;
+    color: white;
+}
+
+ul{
+    list-style: none;
+    margin-right: 200px;
+    line-height: 2;
+}
+
+.hugo{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.img-dos{
+    margin-right: 100px;
+}
+
+.elef{
+    width: 100%;
+    height: 75vh;
+    background-image: url(../images/john-raptis.png);
+    background-size: cover;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+
+
+
